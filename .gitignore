@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+*.key
+*.pem
+device-status.json
+master.key
+containers/
+*.pyc
+__pycache__/
+venv/
+.env
+
