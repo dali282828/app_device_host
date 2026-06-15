@@ -67,7 +67,7 @@ app_device_host/
 
 ## Integration
 
-- Backend API: `https://aiforge-backend.fly.dev/api`
+- Backend API: `https://backend.infitask.com/api`
 - Smart Contract: `DeviceRegistry.sol` (to be deployed)
 - Blockchain: Polygon
 
